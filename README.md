@@ -1,6 +1,6 @@
 # Student API
 
-Student API is an REST API that contains the details of students using JSON.
+A REST API that contains the details of students using JSON.
 
 ## Installation
 
