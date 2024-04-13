@@ -1,6 +1,6 @@
 # Student API
 
-A REST API that contains the details of students using JSON.
+A REST API that contains the details of students using JSON
 
 ## Installation
 
@@ -49,7 +49,7 @@ Delete a student from the Student API based on the path parameter provided for t
 
 ## Scope
 
-utilize it for Student project management application for department
+Utilize it for Student project management application for department
 
 ## License
 
